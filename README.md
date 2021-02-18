@@ -1,6 +1,6 @@
 # Ingest CSV
 ## Introduction
-A tool to read all the data from CSV and produce dashbaord .
+A tool to read all the data from CSV and produce dashbaord at Output/index.html
 ### Browser Compatibility
 
 index.html supports all the browser.
