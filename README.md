@@ -3,7 +3,7 @@
 A tool to read all the data from CSV and produce dashbaord .
 ### Browser Compatibility
 
-JS File Downloader supports all browsers that are [ES5-compliant](http://kangax.github.io/compat-table/es5/) (IE8 and below are not supported).
+index.html supports all the browser.
 
 ---
 
